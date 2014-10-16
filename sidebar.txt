@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bvt:home|Door43 (bvt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bvt|d43-bvt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bvt/archive/master.zip|d43-bvt.zip]]
+
+**Recent Changes**
+{{changes>ns = bvt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bvt|Ethnologue data]]
+
